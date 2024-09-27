@@ -131,6 +131,7 @@ With this our `deno.json` should look something like this:
 
 And if we look back to main.tsx and App.tsx all the squigglies pertaining to react elements and jsx should be fixed! (If not maybe try a restart of your ide)
 
+Go ahead and give it a shot with `deno run dev` and check it out on your localhost:5173 adress!
 
 ## Conclusion
 
